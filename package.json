@@ -1,7 +1,7 @@
 {
   "name": "@mlaursen/prettier-config",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The reusable prettier config I normally use for repos",
   "repository": "https://github.com/mlaursen/prettier-config.git",
   "author": "Mikkel Laursen <mlaursen03@gmail.com>",
