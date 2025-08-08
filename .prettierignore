@@ -1,0 +1,3 @@
+pnpm*.yaml
+node_modules
+CHANGELOG.md
